@@ -15,8 +15,8 @@ Grade Calculator is a basic iOS app that allows users to input student grades an
 - **Charts**: Integrated chart libraries for graph generation  
 
 ## 🖼️ UI Screens  
-- **UI 1**: Home Screen  https://github.com/oshcode/Grade-Calculator/blob/main/Graph.png?raw=true
-- **UI 2**: Input Screen  
+- **UI 1**: Home Screen ![Home](https://github.com/oshcode/Grade-Calculator/blob/main/Graph.png?raw=true)
+- **UI 2**: Input Screen 
 - **UI 3**: Results/Graph Screen  
 
 ## ✍️ User Input  
