@@ -1,4 +1,4 @@
-# 📊 Grade Calculator  
+<img width="624" height="1256" alt="image" src="https://github.com/user-attachments/assets/4051b81b-83be-4391-a894-78c046ee3ee7" /># 📊 Grade Calculator  
 *A Swift App Case Study*
 
 ## 🧾 Overview  
@@ -15,9 +15,10 @@ Grade Calculator is a basic iOS app that allows users to input student grades an
 - **Charts**: Integrated chart libraries for graph generation  
 
 ## 🖼️ UI Screens  
-- **UI 1**: Home Screen ![Home](https://github.com/oshcode/Grade-Calculator/blob/main/Graph.png?raw=true)
-- **UI 2**: Input Screen 
-- **UI 3**: Results/Graph Screen  
+
+| Input Screen | Output Screen | Results / Graph Screen |
+|-------------|--------------|-------------------------|
+| ![Input Screen](https://github.com/oshcode/Grade-Calculator/blob/main/Input.png?raw=true) | ![Output Screen](https://github.com/oshcode/Grade-Calculator/blob/main/Output.png?raw=true) | ![Graph Screen]( https://github.com/oshcode/Grade-Calculator/blob/main/Graph.png?raw=true) |
 
 ## ✍️ User Input  
 Users start by entering the total number of students and then input the grade for each one.
@@ -42,8 +43,5 @@ This app development process reinforced core iOS development skills:
 
 - User-centered form and UI design  
 - Practical application of Swift and UIKit fundamentals  
-- Visualizing data using native iOS tools and chart libraries  
+- Visualizing data using native iOS tools and chart libraries 
 
----
-
-Feel free to fork this repo or use it as a base for your own iOS data visualization projects.
