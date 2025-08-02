@@ -1,4 +1,4 @@
-<img width="624" height="1256" alt="image" src="https://github.com/user-attachments/assets/4051b81b-83be-4391-a894-78c046ee3ee7" /># 📊 Grade Calculator  
+📊 Grade Calculator  
 *A Swift App Case Study*
 
 ## 🧾 Overview  
